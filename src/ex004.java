@@ -10,5 +10,7 @@ public class ex004 {
         } else {
             System.out.printf("O número %d é ímpar.", number);
         }
+
+        sc.close();
     }
 }
